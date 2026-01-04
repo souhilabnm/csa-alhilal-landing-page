@@ -4,6 +4,7 @@ import { Hero } from './components/Hero';
 import { About } from './components/About';
 import { Vision } from './components/Vision';
 import { Teams } from './components/Teams';
+import { Gallery } from './components/Gallery';
 import { Sponsors } from './components/Sponsors';
 import { Footer } from './components/Footer';
 
@@ -16,6 +17,7 @@ const App: React.FC = () => {
         <About />
         <Vision />
         <Teams />
+        <Gallery />
         <Sponsors />
       </main>
       <Footer />

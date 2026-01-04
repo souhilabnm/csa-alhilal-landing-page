@@ -27,4 +27,5 @@ export enum SectionId {
   TEAMS = 'teams',
   CONTACT = 'contact',
   SPONSORS = 'sponsors',
+  GALLERY = 'gallery',
 }
